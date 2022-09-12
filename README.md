@@ -8,12 +8,12 @@
 </p>
 
 
-> [Automated Multi Device whatsapp bot created](https://github.com/whiteshadowofficial) by [Mr.White Shadow](https://github.com/whiteshadowofficial)
+> [Automated Multi Device whatsapp bot created](https://github.com/NazimiX) by [Mr.NazimiX](https://github.com/NazimiX)
 
 ----
 Setup bot in sinhala lanuage...👇
 
-https://github.com/whiteshadowofficial/Stefanie-Setup
+https://github.com/Leoboy30/Nazim-MD
 
  <b><h1>Scan Qr Code.</b></h1>
  
@@ -28,7 +28,7 @@ https://github.com/whiteshadowofficial/Stefanie-Setup
   
 
 <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
+   <a href="https://heroku.com/deploy"><img src="/https://telegra.ph/file/6099734cfe227d280a1e2.jpg">
 <br>
 
 ----
